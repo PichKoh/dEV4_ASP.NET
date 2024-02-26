@@ -1,0 +1,24 @@
+{
+  "Profiles": {
+    "profiles": [
+      {
+        "Id": 1,
+        "Name": "Ivan",
+        "City": "Lviv",
+        "Year": "2002"
+      },
+      {
+        "Id": 2,
+        "Name": "Andrey",
+        "City": "Melitopol",
+        "Year": "2004"
+      },
+      {
+        "Id": 3,
+        "Name": "Dima",
+        "City": "Mykolaiv",
+        "Year": "2002"
+      }
+    ]
+  }
+}
